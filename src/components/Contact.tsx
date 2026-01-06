@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto">
           {/* Section Header */}
           <div className="text-center mb-16">
-            <span className="text-primary font-mono text-sm mb-4 block">// Let's Connect</span>
+            <span className="text-primary font-mono text-sm mb-4 block">Let's Connect</span>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               Get In <span className="text-gradient">Touch</span>
             </h2>
