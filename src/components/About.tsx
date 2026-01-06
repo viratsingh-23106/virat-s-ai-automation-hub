@@ -30,7 +30,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center max-w-6xl mx-auto">
           {/* Left - Content */}
           <div>
-            <span className="text-primary font-mono text-sm mb-4 block">// About Me</span>
+            <span className="text-primary font-mono text-sm mb-4 block">About Me</span>
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
               Crafting <span className="text-gradient">Intelligent</span> Solutions
             </h2>
