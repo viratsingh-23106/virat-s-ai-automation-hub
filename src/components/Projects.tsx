@@ -45,7 +45,7 @@ const Projects = () => {
       <div className="container relative z-10 px-6">
         {/* Section Header */}
         <div className="text-center mb-16">
-          <span className="text-primary font-mono text-sm mb-4 block">// Featured Work</span>
+          <span className="text-primary font-mono text-sm mb-4 block">Featured Work</span>
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             <span className="text-gradient">Projects</span> & Automations
           </h2>
